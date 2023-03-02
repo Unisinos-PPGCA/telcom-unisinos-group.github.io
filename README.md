@@ -199,7 +199,7 @@ The post-doctoral fellowship includes a monthly stipend of R$ 8.479,07 (about US
 </p>
 ## Partners
 <p align="center">
-    <img src="UFES.png" height="60"/> <img src="UFMG.png" height="100"/> <img src="UFRGS.png" height="70"/> <img src="UNICAMP.png" height="80"/> <img src="unisinos.png" height="100"/>  <img src="UFG.png" height="100"/>  <img src="UFES.png" height="100"/>  <img src="UFMG.png" height="100"/>  <img src="UFPA.png" height="100"/>  <img src="INATEL.png" height="100"/>  <img src="UFRJ.png" height="100"/>
+    <img src="UFES.png" height="60"/> <img src="UFMG.png" height="100"/> <img src="UFRGS.png" height="70"/> <img src="UNICAMP.png" height="80"/> <img src="unisinos.png" height="100"/>  <img src="UFG.png" height="100"/>  <img src="UFES.png" height="100"/>    <img src="UFPA.png" height="100"/>  <img src="INATEL.png" height="100"/>  <img src="UFRJ.png" height="100"/>
 </p>
 
 ## Acknowledgement
