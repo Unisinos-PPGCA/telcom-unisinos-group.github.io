@@ -8,7 +8,19 @@
     <img src="unisinos.png"/> 
 </p>
 
-[Description](#description) | [Members](#members) | [Publications](#publications) | [Development](#development) | [News](#news) | [Partners](#partners)| [Acknowledgement](#acknowledgement)
+<table>
+  <tbody>
+    <tr>
+      <td><a href="#description">Description</a></td>
+      <td><a href="#members">Members</a></td>
+      <td><a href="#publications">Publications</a></td>
+      <td><a href="#development">Development</a></td>
+      <td><a href="#news">News</a></td>
+      <td><a href="#partners">Partners</a></td>
+      <td><a href="#acknowledgement">Acknowledgement</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Description
 <p align="justify">
