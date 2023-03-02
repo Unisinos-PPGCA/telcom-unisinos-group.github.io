@@ -173,54 +173,48 @@ Source routing (SR) is a prominent alternative to table-based routing for reduci
 
 ## News
 
-### News #1 - PolKA proposal will be demonstrated as a Network Research Exibition in SuperComputing 2022 <a href="https://sc22.supercomputing.org/"> https://sc22.supercomputing.org/</a> 
+### News #1 - SAMURAI - Smart 5G Core And MUltiRAn Integration
+Post doctoral fellowship position 
 <p align="justify">  
-This NRE proposes to demonstrate PolKA functionalities to support the TE extreme challenges for data-intensive science (DIS). PolKA is a novel source routing approach that explores the Residue Number System (RNS) and Chinese Remainder Theorem (CRT) by performing the forwarding as an arithmetic operation: the remainder of division. PolKA encodes the path in a routeID using the RNS in contrast to the conventional list-based representation, which transports the path information “in clear” inside the packet header. Then, PolKA core nodes use this encoded route label to discover the output ports.
+We are seeking candidates for a post doctoral fellowship position for 12 months, 40h per week to work at a joint UFPA-UFRJ-UFG-INATEL-UNISINOS project. The candidate will be allocated to UNISINOS University and will work with researchers of the consortium. We offer flexible working hours.
+
 </p>
 
 <p align="justify"> 
-The plan of demonstration is to create an overlay network with PolKA tunnels forming virtual circuits to validate the data-intensive transfer over 10G and 100G+ as a proof-of-principle of PolKA mechanisms. At the edge, flows can be classified, balanced and steered by using a Policy-Based Routing (PBR). A number of virtual circuits may be configured by dividing the capacity of the physical links and using them to serve the flows. Underlay congestion can be detected by tunnel monitoring and signalized to the overlay, and overlay routing can steer traffic from congested tunnels to other paths. Comparisons between segment routing and PolKA regarding controllability and performance metrics are also planned in this demonstation. 
+This scholarship is part of the project, entitled “Smart 5G Core And MUltiRAn Integration” (SAMURAI), which proposes to research, deploy and extend 5G systems, developing the necessary software to demonstrate the integration of wireless access technologies to the 5G core, as well as the integration of non-3GPP IoT access network technologies to a 5G core. Additionally, the project will address issues related to the adoption of Artificial Intelligence/Machine Learning (AI/ML) as a critical component in the evolution of 5G networks. The postdoc candidate will work on the use of AI and machine learning in the integration of wireless access (3GPP and non-3GPP) to 5G networks, as well as the adoption of AI/ML to these networks.
 </p>
 
 
-<p align="justify">
-The goal is to investigate whether PolKA approach deployed at Global P4 Lab (RARE/freeRtr) meets the needs of DIS networks, working with other software tools and subsystems developed by the DIS-WG for constructing switched overlay networks composed of network paths with bandwidth guarantees, load balancing, prioritizing and scheduling flows over selected multi-domain paths, and making decisions on the coordinated use of network and site computing and storage resources to help accelerate the science workflows.
-</p>
 
-### News #2 - Post-doctoral fellowship in 5G slicing, orchestration, and programmability
-<p align="justify">
-We are seeking candidates for a post-doctoral fellowship position for 12 months to work at a joint UFMG-UNICAMP-UFES-UNISINOS-UFRGS project. Due to the number of institutions as well as the situation with COVID-19, there is a great amount of flexibility in the place of work. The candidate will be allocated to one of the host universities and will work with researchers of the consortium. 
-</p>
-<p align="justify">
-This scholarship is part of the Project, entitled “Programmability, Orchestration and Virtualization on 5G networks” (PORVIR-5G), which aims to develop new architectures and mechanisms to improve 5G networks in general. The post-doc candidate will work on the use of AI and machine learning in the orchestration of 5G networks, as well as network slicing and programmability of virtual networks. The project focuses on some of the 5G verticals, namely ultra high quality video, autonomous drones and Industry 4.0. More information at: <a href="https://porvir-5g-project.github.io/ ">https://porvir-5g-project.github.io/ </a>
 </p>
     
 **To succeed in this position, you are expected to have:**
 
 * Strong motivation;
-* A background in computer networks, namely network slicing, programmability;    
-* Proficient in common computer programming languages (e.g., Java, C/C++, python);
-* A background in AI and machine learning is a positive aspect to be considered in the selection process;
-* Work experience in research labs abroad, during the Ph.D. period, is a positive aspect to be considered in the selection process;
+* A background in telecommunication networks, namely network slicing, programmability;
+* Proficient in common computer programming languages (e.g., Go, C/C++, python);
+* A background in AI and machine learning is a positive aspect to be considered in the selection process;* Work experience in research labs abroad, during the Ph.D. period, is a positive aspect to be considered in the selection process;
 * Strong problem solving and decision-making skills while using good judgment;
 * Good research skills, the ability to work in a team, and communication skills with good written and spoken English are required;
 * Experience in preparing/coordinating research project/students team is a plus.
-
+</p> 
 **How to apply**
 
-Interested candidates should fill the  <a href="https://forms.gle/RKa3e5nfrCPafEVx7 ">online form </a> until June 15th, 2022, by adding the documents listed below:
+Interested candidates should fill the <a href="https://docs.google.com/forms/d/1EB4SShaoVYNPRh0WPMnfCpkRDc8ao9Pdwc96BF2ohgg/prefill"> online form until June 15th, 2023, by adding the documents listed below:
 1. A motivation letter for the application;
 2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
-3. Ph.D. degree certificate;
-The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
+3. Ph.D. degree certificate; The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
+4. Two reference letters, uploaded in the form
+</p>
 
 **Additional Information**
 <p align="justify"> 
         
 Eligibility Criteria: Ph.D. in Computer Science or related areas.
 The post-doctoral fellowship includes a monthly stipend of R$ 8.479,07 (about USD 1,640 and EUR 1,450), and research contingency funds (10% of the annual value of the fellowship, each year). For more details, check out Fapesp’s webpage  <a href="http://www.fapesp.br/en/5427 ">http://www.fapesp.br/en/5427 </a> .
- 
+About UNISINOS:  http://www.unisinos.br/global/en/   
 </p>
+
 ## Partners
 <p align="center">
     <img src="UFES.png" height="80"/> <img src="UFMG.png" height="100"/> <img src="UFRGS.png" height="70"/> <img src="UNICAMP.png" height="80"/> <img src="unisinos.png" height="100"/>  <img src="UFG.png" height="100"/>     <img src="UFPA.png" height="100"/>  <img src="INATEL.png" height="100"/>  <img src="UFRJ.png" height="100"/> <img src="RNP.png" height="100"/>
