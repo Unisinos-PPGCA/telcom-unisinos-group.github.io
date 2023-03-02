@@ -25,7 +25,7 @@
 
 ## Description
 
-</p>
+
 
 <p align="justify">
 The expected massive growth of mobile Internet traffic in 5G mobile networks introduces the need to change the operators’ networks. Such networks require a drastic transformation towards open, scalable and elastic ecosystems supporting new types of communication. The PORVIR-5G project will develop and demonstrate a programmable fronthaul and backhaul integrating wireless with optical-packet networks and cloud solutions. It is intended to exploit virtual network splits that optimise resource allocation across the wireless, optical, packet, and compute/storage domains. Key enablers for PORVIR-5G are (i) Slicing over packet, wireless, and optical resources, controlled by (ii) deep programmability interfaces, where the devices are configured by network functions to provide the required performance for the future applications on the Internet. This programmability allows a more refined (iii) end-to-end and multilayer orchestration, considering the quality of experience of the users for each type of applications over the network. This project will validate and demonstrate the proposed programmability and virtualization capabilities in three demonstrations, each one of them enabling the key performance demands of 5G networks: an Internet of Things demonstrator focusing on massive machine-type communication; a smart city demonstration for reliable and ultra-low latency flows; and a high bandwidth video demonstrator showcasing the next-generation mobile broadband. 
@@ -33,14 +33,14 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## Members
 
-</p>
+
 <p align="center">
     <img src="Cristiano Bonato Both.png" height="60"/> <img src="Lucio Rene Prade.png" height="100"/> <img src="Felipe Grings.png" height="70"/> <img src="Gustavo Zanatta Bruno.png" height="80"/> <img src="Felipe Arnhold.png" height="100"/> <img src="Henrique Cesar Carvalho de Resende.png" height="100"/> <img src="Ariel.png" height="100"/> <img src="Thiago.png" height="100"/> <img src="Wagner Dias.png" height="100"/> <img src="Sivasankari Salem Anbazhagan.png" height="100"/> <img src="João Carlos Silveira.png" height="100"/>
 </p>
 
 ## Publications
 
-</p>
+
 
 <details><summary> B. M. Xavier, R. S. Guimarães, G. Comarela and M. Martinello, <i>" MAP4: A Pragmatic Framework for In-Network Machine Learning Traffic Classification "</i> in IEEE Transactions on Network and Service Management, 2022. </summary>
     <strong>Abstract:</strong> 
@@ -193,7 +193,7 @@ Source routing (SR) is a prominent alternative to table-based routing for reduci
 </p>
 
 ## News 
-</p>
+
 
 ### News #1 - SAMURAI - Smart 5G Core And MUltiRAn Integration
 Post doctoral fellowship position 
