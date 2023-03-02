@@ -6,6 +6,18 @@
     <img src="V 4 branco.png"/> 
 <p align="right">
     <img src="unisinos.png"/> 
+    </p>
+
+<table>
+  <tbody>
+    <tr>
+      <td><a <a img src="V 4 branco.png"/> </a> </td>
+      <td><a <a img src="unisinos.png"/> </a></td>
+      
+    </tr>
+  </tbody>
+</table>
+
 </p>
 
 <table>
