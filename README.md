@@ -136,7 +136,31 @@ large scale IoT deployment,"</i> in Computers and Electrical Engineering, Volume
 <br/>
 
 <details><summary>Grings, F., Silveira, L., Lúcio Prade, Cardoso, K., Correa, S. and Both, C., <i>"Full dynamic orchestration in 5G core network slicing over a cloud-native platform,"</i> IEEE Global Communications Conference (GLOBECOM), 2022, pp. 2885-2890.</summary>
-    <strong>Abstract:</strong> Technological advances in the fifth-generation (5G) mobile networks are based on native cloud computing platforms, and Kubernetes (K8S) has emerged as a relevant orchestration system in this context. However, these platforms were not designed to support 5G services natively. To illustrate, Kubernetes is designed to be agnostic to the services that it orchestrates and cannot dynamically reconfigure the 5G core according to existing network resources, i.e., it provides a partial dynamic orchestration to perform network slicing. This paper proposes a solution integrated with K8S to allow full dynamic orchestration of network slicing at runtime, including online adjustments in the 5G core. This integration is accomplished through a K8S-integrated controller for the control plane. The controller adjusts the 5G core and adapts the virtualized infrastructure. The results show a reconfiguration based on full dynamic orchestration without interruption of the services provided, reducing by close to 50% the full reconfiguration requests number by network slices.
+    <strong>Abstract:</strong> Technological advances in the fifth-generation (5G) mobile networks are based on native cloud computing platforms, and Kubernetes (K8S) has emerged as a relevant orchestration system in this context. However, these platforms were not designed to support 5G services natively. To illustrate, Kubernetes is designed to be agnostic to the services that it orchestrates and cannot dynamically reconfigure the 5G core according to existing network resources, i.e., it provides a partial dynamic orchestration to perform network slicing. This paper proposes a solution integrated with K8S to allow full dynamic orchestration of network
+
+Pull requestsIssuesCodespacesMarketplace
+Explore
+ 
+ 
+telcom-unisinos-group/telcom-unisinos-group.github.ioPublic
+Edit Pins 
+ Watch 1 
+Fork 0Fork your own copy of telcom-unisinos-group/telcom-unisinos-group.github.io
+ Star 0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+telcom-unisinos-group.github.io/inmain
+Cancel changes
+ Edit file  Preview
+                                Spaces Tabs                                                            2 4 8                                                            No wrap Soft wrap                            
+ slicing at runtime, including online adjustments in the 5G core. This integration is accomplished through a K8S-integrated controller for the control plane. The controller adjusts the 5G core and adapts the virtualized infrastructure. The results show a reconfiguration based on full dynamic orchestration without interruption of the services provided, reducing by close to 50% the full reconfiguration requests number by network slices.
     <strong>URL:</strong> <a href="https://doi.org/10.1109/GLOBECOM48099.2022.10000663">https://doi.org/10.1109/GLOBECOM48099.2022.10000663</a>
 </details>
 <br/>
@@ -199,7 +223,7 @@ The post-doctoral fellowship includes a monthly stipend of R$ 8.479,07 (about US
 </p>
 ## Partners
 <p align="center">
-    <img src="UFES.png" height="80"/> <img src="UFMG.png" height="100"/> <img src="UFRGS.png" height="70"/> <img src="UNICAMP.png" height="80"/> <img src="unisinos.png" height="100"/>  <img src="UFG.png" height="100"/>     <img src="UFPA.png" height="100"/>  <img src="INATEL.png" height="100"/>  <img src="UFRJ.png" height="100"/>
+    <img src="UFES.png" height="80"/> <img src="UFMG.png" height="100"/> <img src="UFRGS.png" height="70"/> <img src="UNICAMP.png" height="80"/> <img src="unisinos.png" height="100"/>  <img src="UFG.png" height="100"/>     <img src="UFPA.png" height="100"/>  <img src="INATEL.png" height="100"/>  <img src="UFRJ.png" height="100"/> <img src="RNP.png" height="100"/>
 </p>
 
 ## Acknowledgement
