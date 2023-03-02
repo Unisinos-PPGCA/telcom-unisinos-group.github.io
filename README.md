@@ -200,7 +200,7 @@ This scholarship is part of the project, entitled “Smart 5G Core And MUltiRAn 
 </p> 
 **How to apply**
 
-Interested candidates should fill the <a href="https://docs.google.com/forms/d/1EB4SShaoVYNPRh0WPMnfCpkRDc8ao9Pdwc96BF2ohgg/prefill"> online form until June 15th, 2023, by adding the documents listed below:
+Interested candidates should fill the <a href="https://docs.google.com/forms/d/1EB4SShaoVYNPRh0WPMnfCpkRDc8ao9Pdwc96BF2ohgg/prefill"> </a> online form until June 15th, 2023, by adding the documents listed below:
 1. A motivation letter for the application;
 2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
 3. Ph.D. degree certificate; The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
