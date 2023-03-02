@@ -29,7 +29,7 @@
     </tr>
   </tbody>
 </table>
-</p>
+
 
 ## Description
 
@@ -43,7 +43,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 
 <p align="center">
-    <img src="Cristiano Bonato Both.png" height="60"/> <img src="Lucio Rene Prade.png" height="100"/> <img src="Felipe Grings.png" height="70"/> <img src="Gustavo Zanatta Bruno.png" height="80"/> <img src="Felipe Arnhold.png" height="100"/> <img src="Henrique Cesar Carvalho de Resende.png" height="100"/> <img src="Ariel.png" height="100"/> <img src="Thiago.png" height="100"/> <img src="Wagner Dias.png" height="100"/> <img src="Sivasankari Salem Anbazhagan.png" height="100"/> <img src="João Carlos Silveira.png" height="100"/>
+    <img src="Cristiano Bonato Both.png" height="100"/> <img src="Lucio Rene Prade.png" height="100"/> <img src="Felipe Grings.png" height="100"/> <img src="Gustavo Zanatta Bruno.png" height="100"/> <img src="Felipe Arnhold.png" height="100"/> <img src="Henrique Cesar Carvalho de Resende.png" height="100"/> <img src="Ariel.png" height="100"/> <img src="Thiago.png" height="100"/> <img src="Wagner Dias.png" height="100"/> <img src="Sivasankari Salem Anbazhagan.png" height="100"/> <img src="João Carlos Silveira.png" height="100"/>
 </p>
 
 ## Publications
@@ -198,7 +198,7 @@ Cancel changes
 ## Development 
 Source routing (SR) is a prominent alternative to table-based routing for reducing the number of network states. Actually the traditional SR approaches, based on Port Switching, still maintain a state in the packet by using a header rewrite operation. The residue number system (RNS) is a promising way to achieve fully stateless SR, in which forwarding decisions at core nodes rely on a simple modulo operation over a route label. Nevertheless, such operation over integer arithmetic is not natively supported by commodity network hardware. Thus, PolKA proposes a novel RNS-based SR scheme that explores binary polynomial arithmetic using Galois field (GF) of order 2.
 
-</p>
+
 
 ## News 
 
@@ -216,7 +216,6 @@ This scholarship is part of the project, entitled “Smart 5G Core And MUltiRAn 
 
 
 
-</p>
     
 **To succeed in this position, you are expected to have:**
 
@@ -227,7 +226,8 @@ This scholarship is part of the project, entitled “Smart 5G Core And MUltiRAn 
 * Strong problem solving and decision-making skills while using good judgment;
 * Good research skills, the ability to work in a team, and communication skills with good written and spoken English are required;
 * Experience in preparing/coordinating research project/students team is a plus.
-</p> 
+
+
 **How to apply**
 
 Interested candidates should fill the <a href="https://docs.google.com/forms/d/1EB4SShaoVYNPRh0WPMnfCpkRDc8ao9Pdwc96BF2ohgg/prefill">  online form until June 15th, 2023, by adding the documents listed below:
@@ -235,7 +235,7 @@ Interested candidates should fill the <a href="https://docs.google.com/forms/d/1
 2. Curriculum vitae, with list of publications, education background, research track-record, and previous experience;
 3. Ph.D. degree certificate; The most suited candidates will be invited for an interview (via videoconference) in the week following the application deadline.
 4. Two reference letters, uploaded in the form
-</p>
+
 
 **Additional Information**
 <p align="justify"> 
