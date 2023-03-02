@@ -2,11 +2,7 @@
 
 <p align="justify">
 </p>
-<p align="left">
-    <img src="V 4 branco.png"/> 
-<p align="right">
-    <img src="unisinos.png"/> 
-    </p>
+
 
 <table>
   <tbody>
