@@ -7,8 +7,8 @@
 <table>
   <tbody>
     <tr>
-      <td><a <a img src="V 4 branco.png"/> </a> </td>
-      <td><a <a img src="unisinos.png"/> </a></td>
+      <td><a <img src="V 4 branco.png"/> </a> </td>
+      <td><a <img src="unisinos.png"/> </a></td>
       
     </tr>
   </tbody>
