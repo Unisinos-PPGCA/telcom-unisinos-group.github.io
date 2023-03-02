@@ -171,7 +171,8 @@ Source routing (SR) is a prominent alternative to table-based routing for reduci
 
 </p>
 
-## News </p>
+## News 
+</p>
 
 ### News #1 - SAMURAI - Smart 5G Core And MUltiRAn Integration
 Post doctoral fellowship position 
