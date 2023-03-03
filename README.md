@@ -8,7 +8,8 @@
   <tbody>
     <tr>
       <td> <img src="V 4 branco.png" height="200"/>  </td>
-      <td><img src="unisinos.png"/> </td>    
+      <td><img src="unisinos.png"  height="200"/> </td>   
+      <td> <img src="UNISINOS aérea 01.png" height="200"/>  </td>
     </tr>
   </tbody>
 </table>
