@@ -258,4 +258,4 @@ UNISINOS Telecom Research Group has received funding from the Brazilian Ministry
 </p>
 
 
-## Telecom Research Group             Brazil
+## UNISINOS Telecom Research Group             Brazil
