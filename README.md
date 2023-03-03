@@ -91,19 +91,19 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
  <table>
   <tbody>
       <tr>
-           </fieldset>
+          
             <fieldset >
                 <legend>Visiting Faculty</legend>
                <table width="93%" height="484"  border="0" align="center">
   <tr>    <td width="24%" height="253"><p align="center"><img src="Sivasankari Salem Anbazhagan.png" width="120" height="154"></p>
-      <p align="center"><strong> Dr. Sivasankari Salem Anbazhagan.png</strong></p>
+      <p align="center"><strong> Dr. Sivasankari Salem Anbazhagan</strong></p>
       <p align="center"><strong>Ph.D. (Saveetha Institute of Medical And Technical Sciences, Saveetha University, Chennai, India) </strong></p>
       <p align="center">Associate Professor at Postdoctooral position</p></td>
     <td width="26%" height="253"><p align="center"><img src="João Carlos Silveira.png" width="120" height="154"></p>
-      <p align="center"><strong>M.Sc. João Carlos Silveira.png</strong></p>
+      <p align="center"><strong>M.Sc. João Carlos Silveira</strong></p>
       <p align="center"><strong> M.Sc Physics</strong></p>      <p align="center">Senior Visiting Consultant </p></td>
     
-  
+   </fieldset>
   </tr>
  </tr>
        </tbody>
