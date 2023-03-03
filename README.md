@@ -1,7 +1,7 @@
 # telcom-unisinos-project.github.io
 
-<p align="justify">
-</p>
+<p align="center">
+
 
 
 <table>
@@ -251,7 +251,7 @@ About UNISINOS:  http://www.unisinos.br/global/en/
 
 ## Acknowledgement
 <p align="justify">
-Telecom Group has received funding from the Brazilian Ministry of Science, Technology and Innovation (MCTI) through FAPESP.
+UNISINOS Telecom Research Group has received funding from the Brazilian Ministry of Science, Technology and Innovation (MCTI) through FAPESP.
 </p>
 <p align="center">
     <img src="mcti.png" height="100"/>     <img src="fapesp.png" height="100"/> 
