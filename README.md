@@ -92,7 +92,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
       <tr>
           
           
-                <legend>Visiting Faculty</legend>
+           ##  Visiting Faculty
                <table width="93%" height="484"  border="0" align="center">
   <tr>    <td width="24%" height="253"><p align="center"><img src="Sivasankari Salem Anbazhagan.png" width="120" height="154"></p>
       <p align="center"><strong> Dr. Sivasankari Salem Anbazhagan</strong></p>
