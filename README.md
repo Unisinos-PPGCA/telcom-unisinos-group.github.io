@@ -41,10 +41,70 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## Members
 
+        <fieldset style="border: 0px solid  !important;" >
+            <legend style="font-size:35px; width:35% !important; font-family: Square721 Cn BT;"> Group Faculty of Department and Graduate Students</legend>
 
-<p align="center">
-    <img src="Cristiano Bonato Both.png" height="100"/> <img src="Lucio Rene Prade.png" height="100"/> <img src="Felipe Grings.png" height="100"/> <img src="Gustavo Zanatta Bruno.png" height="100"/> <img src="Felipe Arnhold.png" height="100"/> <img src="Henrique Cesar Carvalho de Resende.png" height="100"/> <img src="Ariel.png" height="100"/> <img src="Thiago.png" height="100"/> <img src="Wagner Dias.png" height="100"/> <img src="Sivasankari Salem Anbazhagan.png" height="100"/> <img src="João Carlos Silveira.png" height="100"/>
-</p>
+            <fieldset >
+                <legend> Permanent Faculty and Graduate Students</legend>
+
+               <table width="93%" height="484"  border="0" align="center">
+
+<tr>
+    <td height="253"><p align="center"><img src="Cristiano Bonato Both.jpg"  height="100"></p>
+      <p align="center"><strong>Prof. Dr. Cristiano Bonato Both</strong></p>
+      <p align="center"><strong> Ph.D </strong></p>      <p align="center">Chairperson /  Professor </p></td>
+    <td width="26%" height="253"><p align="center"><img src="Lucio Rene Prade.jpg"  height="100"></p>
+      <p align="center"><strong>Lucio Rene Prade</strong></p>
+      <p align="center"><strong> Ph. D </strong></p>
+      <p align="center">Professor</p></td>
+    <td width="24%" height="253"><p align="center"><img src="Felipe Grings.png" height="100"></p>
+      <p align="center"><strong>Mr. Felipe Grings</strong></p>
+      <p align="center"><strong> B.Sc.  </strong></p>
+      <p align="center">M. Sc. Student</p></td>
+    <td width="24%" height="253"><p align="center"><Gustavo Zanatta Bruno.jpg" height="100"></p>
+      <p align="center"><strong>M. Sc. Gustavo Zanatta Bruno </strong></p>
+      <p align="center"><strong>Ph.D Student </strong></p>
+      <p align="center">Visiting Virginia Tech (2023)</p></td>
+  </tr>
+  <tr>
+     <td width="26%" height="253"><p align="center"><Felipe Arnhold.jpg"  height="100"></p>
+      <p align="center"><strong>Mr. Felipe Arnhold</strong></p>
+      <p align="center"><strong>B.Sc. </strong></p>
+      <p align="center">M.Sc. Student</p></td>
+    <td width="26%" height="253"><p align="center"><Henrique Cesar Carvalho de Resende.jpg" width="120" height="154"></p>
+      <p align="center"><strong>Mr. Henrique Cesar Carvalho de Resende</strong></p>
+      <p align="center"><strong> PhD Student at University of Antwerp, Belgium</strong></p>
+      <p align="center">PhD Student</p></td>
+    <td width="24%" height="253"><p align="center"><img src="Ariel.png"  height="100"></p>
+      <p align="center"><strong>Mr.Ariel</strong></p>
+      <p align="center"><strong> MS (NCBA&E, Pak)</strong></p>      <p align="center">Student</p></td>
+    <td width="24%" height="253"><p align="center"><img src="Thiago.png" width="120" height="154"></p>
+      <p align="center"><strong>Mr.Thiago</strong></p>
+      <p align="center"><strong> B.Sc. </strong></p>      <p align="center">Student</p></td>
+  </tr>
+  <tr>
+    <td width="26%" height="253"><p align="center"><img src="Wagner Dias.png" width="120" height="154"></p>
+      <p align="center"><strong>Mr. Wagner Dias</strong></p>
+      <p align="center"><strong> B.Sc.</strong></p>
+      <p align="center">M.Sc.Student</p></td>
+    
+
+           </fieldset>
+            <fieldset >
+                <legend>Visiting Faculty</legend>
+               <table width="93%" height="484"  border="0" align="center">
+  <tr>    <td width="24%" height="253"><p align="center"><img src="Sivasankari Salem Anbazhagan.png" width="120" height="154"></p>
+      <p align="center"><strong> Dr. Sivasankari Salem Anbazhagan.png</strong></p>
+      <p align="center"><strong>Ph.D. (Saveetha Institute of Medical And Technical Sciences, Saveetha University, Chennai, India) </strong></p>
+      <p align="center">Associate Professor at Postdoctooral position</p></td>
+    <td width="26%" height="253"><p align="center"><img src="João Carlos Silveira.png" width="120" height="154"></p>
+      <p align="center"><strong>M.Sc. João Carlos Silveira.png</strong></p>
+      <p align="center"><strong> M.Sc Physics</strong></p>      <p align="center">Senior Visiting Consultant </p></td>
+    
+  
+  </tr>
+ </tr>
+ </table>
 
 ## Publications
 
