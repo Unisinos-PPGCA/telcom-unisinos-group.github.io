@@ -101,7 +101,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
       <p align="center">Associate Professor at Postdoctoral position</p></td>
     <td width="26%" height="253"><p align="center"><img src="João Carlos Silveira.png" width="120" height="154"></p>
       <p align="center"><strong>M.Sc. João Carlos Silveira</strong></p>
-      <p align="center"><strong> M.Sc Physics</strong></p>      <p align="center">Senior Visiting Consultant </p></td>
+      <p align="center"><strong> M.Sc Physics</strong></p>      <p align="center"> Visiting Consultant </p></td>
     
  
   </tr>
