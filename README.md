@@ -40,7 +40,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 </p>
 
 ## Members
-
+ </table>
         <fieldset style="border: 0px solid  !important;" >
             <legend style="font-size:35px; width:35% !important; font-family: Square721 Cn BT;"> Group Faculty of Department and Graduate Students</legend>
 
