@@ -42,14 +42,12 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 ## Members
  </table>
    <tbody>
-        <fieldset style="border: 0px solid  !important;" >
-            <legend style="font-size:35px; width:35% !important; font-family: Square721 Cn BT;"> Group Faculty of Department and Graduate Students</legend>
+        > Group Faculty of Department and Graduate Students</legend>
 
-            <fieldset >
-                <legend> Permanent Faculty and Graduate Students</legend>
+            Permanent Faculty and Graduate Students
+            
 
-               <table width="93%" height="484"  border="0" align="center">
-
+               
 <tr>
     <td height="253"><p align="center"><img src="Cristiano Bonato Both.jpg"  height="100"></p>
       <p align="center"><strong>Prof. Dr. Cristiano Bonato Both</strong></p>
