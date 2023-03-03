@@ -41,6 +41,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 
 ## Members
  </table>
+   <tbody>
         <fieldset style="border: 0px solid  !important;" >
             <legend style="font-size:35px; width:35% !important; font-family: Square721 Cn BT;"> Group Faculty of Department and Graduate Students</legend>
 
@@ -81,14 +82,17 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
     <td width="24%" height="253"><p align="center"><img src="Thiago.png" width="120" height="154"></p>
       <p align="center"><strong>Mr.Thiago</strong></p>
       <p align="center"><strong> B.Sc. </strong></p>      <p align="center">Student</p></td>
-  </tr>
-  <tr>
+
     <td width="26%" height="253"><p align="center"><img src="Wagner Dias.png" width="120" height="154"></p>
       <p align="center"><strong>Mr. Wagner Dias</strong></p>
       <p align="center"><strong> B.Sc.</strong></p>
       <p align="center">M.Sc.Student</p></td>
     
-
+  </tbody>
+        </tr>
+ <table>
+  <tbody>
+      <tr>
            </fieldset>
             <fieldset >
                 <legend>Visiting Faculty</legend>
@@ -104,6 +108,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
   
   </tr>
  </tr>
+       </tbody>
  </table>
 
 ## Publications
