@@ -58,7 +58,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
       <p align="center">Professor</p></td>
     <td width="24%" height="253"><p align="center"><img src="Felipe Grings.png" height="100"></p>
       <p align="center"><strong>Mr. Felipe Grings</strong></p>
-      <p align="center"><strong> B.Sc.  </strong></p>
+      <p align="center"><strong> B.Sc. Computer Engineering </strong></p>
       <p align="center">M. Sc. Student</p></td>
     <td width="24%" height="253"><p align="center"><<img src="Gustavo Zanatta Bruno.png" height="100"></p>
       <p align="center"><strong>M. Sc. Gustavo Zanatta Bruno </strong></p>
@@ -68,7 +68,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
   <tr>
      <td width="26%" height="253"><p align="center"><img src="Felipe Arnhold.png"  height="100"></p>
       <p align="center"><strong>Mr. Felipe Arnhold</strong></p>
-      <p align="center"><strong>B.Sc. </strong></p>
+      <p align="center"><strong>B.Sc. Computer Engineering </strong></p>
       <p align="center">M.Sc. Student</p></td>
     <td width="26%" height="253"><p align="center"><img src="Henrique Cesar Carvalho de Resende.png" width="120" height="154"></p>
       <p align="center"><strong>Mr. Henrique Cesar Carvalho de Resende</strong></p>
@@ -77,12 +77,16 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
     <td width="24%" height="253"><p align="center"><img src="Ariel.png"  height="100"></p>
       <p align="center"><strong>Mr.Ariel</strong></p>
       <p align="center"><strong> MS Student</strong></p>      <p align="center">Student</p></td>
-    <td width="24%" height="253"><p align="center"><img src="Thiago.png" width="120" height="154"></p>
-      <p align="center"><strong>Mr.Thiago</strong></p>
-      <p align="center"><strong> B.Sc. </strong></p>      <p align="center">Student</p></td>
+    <td width="24%" height="253"><p align="center"><img src="Thiago Becker.png" width="120" height="154"></p>
+      <p align="center"><strong>Mr.Thiago Becker</strong></p>
+      <p align="center"><strong> B.Sc. Computer Science </strong></p>      <p align="center">Student</p></td>
     <td width="26%" height="253"><p align="center"><img src="Wagner Dias.png" width="120" height="154"></p>
       <p align="center"><strong>Mr. Wagner Dias</strong></p>
-      <p align="center"><strong> B.Sc.</strong></p>
+      <p align="center"><strong> B.Sc. Computer Engineering</strong></p>
+      <p align="center">M.Sc.Student</p></td>
+       <td width="26%" height="253"><p align="center"><img src="Gabriela da Silva Machado.png" width="120" height="154"></p>
+      <p align="center"><strong>Ms. Gabriela da Silva Machado</strong></p>
+      <p align="center"><strong> B.Sc. Systems Dev </strong></p>
       <p align="center">M.Sc.Student</p></td>
     
   </tbody>
