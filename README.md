@@ -91,7 +91,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
   <tbody>
       <tr>
           
-            <fieldset >
+          
                 <legend>Visiting Faculty</legend>
                <table width="93%" height="484"  border="0" align="center">
   <tr>    <td width="24%" height="253"><p align="center"><img src="Sivasankari Salem Anbazhagan.png" width="120" height="154"></p>
@@ -102,7 +102,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
       <p align="center"><strong>M.Sc. João Carlos Silveira</strong></p>
       <p align="center"><strong> M.Sc Physics</strong></p>      <p align="center">Senior Visiting Consultant </p></td>
     
-   </fieldset>
+ 
   </tr>
  </tr>
        </tbody>
