@@ -60,23 +60,23 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
       <p align="center"><strong>Mr. Felipe Grings</strong></p>
       <p align="center"><strong> B.Sc.  </strong></p>
       <p align="center">M. Sc. Student</p></td>
-    <td width="24%" height="253"><p align="center"><Gustavo Zanatta Bruno.png" height="100"></p>
+    <td width="24%" height="253"><p align="center"><<img src="Gustavo Zanatta Bruno.png" height="100"></p>
       <p align="center"><strong>M. Sc. Gustavo Zanatta Bruno </strong></p>
       <p align="center"><strong>Ph.D Student </strong></p>
       <p align="center">Visiting Virginia Tech (2023)</p></td>
   </tr>
   <tr>
-     <td width="26%" height="253"><p align="center"><Felipe Arnhold.png"  height="100"></p>
+     <td width="26%" height="253"><p align="center"><img src="Felipe Arnhold.png"  height="100"></p>
       <p align="center"><strong>Mr. Felipe Arnhold</strong></p>
       <p align="center"><strong>B.Sc. </strong></p>
       <p align="center">M.Sc. Student</p></td>
-    <td width="26%" height="253"><p align="center"><Henrique Cesar Carvalho de Resende.png" width="120" height="154"></p>
+    <td width="26%" height="253"><p align="center"><img src="Henrique Cesar Carvalho de Resende.png" width="120" height="154"></p>
       <p align="center"><strong>Mr. Henrique Cesar Carvalho de Resende</strong></p>
       <p align="center"><strong> PhD Student at University of Antwerp, Belgium</strong></p>
       <p align="center">PhD Student</p></td>
     <td width="24%" height="253"><p align="center"><img src="Ariel.png"  height="100"></p>
       <p align="center"><strong>Mr.Ariel</strong></p>
-      <p align="center"><strong> MS (NCBA&E, Pak)</strong></p>      <p align="center">Student</p></td>
+      <p align="center"><strong> MS Student</strong></p>      <p align="center">Student</p></td>
     <td width="24%" height="253"><p align="center"><img src="Thiago.png" width="120" height="154"></p>
       <p align="center"><strong>Mr.Thiago</strong></p>
       <p align="center"><strong> B.Sc. </strong></p>      <p align="center">Student</p></td>
