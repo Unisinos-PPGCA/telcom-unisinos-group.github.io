@@ -40,7 +40,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 </p>
 
 ## Members
- </table>
+
    <tbody>
         > Group Faculty of Department and Graduate Students</legend>
 
@@ -277,8 +277,9 @@ Cancel changes
 
 
 ## Development 
+<p>
 Source routing (SR) is a prominent alternative to table-based routing for reducing the number of network states. Actually the traditional SR approaches, based on Port Switching, still maintain a state in the packet by using a header rewrite operation. The residue number system (RNS) is a promising way to achieve fully stateless SR, in which forwarding decisions at core nodes rely on a simple modulo operation over a route label. Nevertheless, such operation over integer arithmetic is not natively supported by commodity network hardware. Thus, PolKA proposes a novel RNS-based SR scheme that explores binary polynomial arithmetic using Galois field (GF) of order 2.
-
+</p>
 
 
 ## News 
