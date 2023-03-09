@@ -320,10 +320,10 @@ About UNISINOS:  http://www.unisinos.br/global/en/
 
 ## Acknowledgement
 <p align="justify">
-UNISINOS Telecom Research Group has received funding from the Brazilian Ministry of Science, Technology and Innovation (MCTI) through FAPESP.
+UNISINOS Telecom Research Group has received funding from the Brazilian Ministry of Science, Technology and Innovation (MCTI) through FAPESP and CNPq.
 </p>
 <p align="center">
-    <img src="mcti.png" height="100"/>     <img src="fapesp.png" height="100"/> 
+    <img src="mcti.png" height="100"/>     <img src="fapesp.png" height="100"/>  <img src="Logo_CNPq.png" height="100"/>
 </p>
 
 
