@@ -7,7 +7,7 @@
 <table>
   <tbody>
     <tr>
-      <td> <img src="Logo Telecom UNISINOS oficial v3.png" height="200"/>  </td>
+      <td> <img src="Logo Telecom UNISINOS oficial branco v5.png" height="200"/>  </td>
       <td> <img src="UNISINOS aérea 01.png" height="200"/>  </td>
       <td><img src="unisinos.png"  height="200"/> </td>  
     </tr>
