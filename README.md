@@ -52,35 +52,45 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
     <td height="253"><p align="center"><img src="Cristiano Bonato Both.png"  height="100"></p>
       <p align="center"><strong>Prof. Dr. Cristiano Bonato Both</strong></p>
       <p align="center"><strong> Ph.D </strong></p>      <p align="center">Chairperson /  Professor </p></td>
+  
     <td width="26%" height="253"><p align="center"><img src="Lucio Rene Prade.png"  height="100"></p>
-      <p align="center"><strong>Lucio Rene Prade</strong></p>
+      <p align="center"><strong>Prof. Dr. Lucio Rene Prade</strong></p>
       <p align="center"><strong> Ph. D </strong></p>
       <p align="center">Professor</p></td>
-    <td width="24%" height="253"><p align="center"><img src="Felipe Grings.png" height="100"></p>
-      <p align="center"><strong>Mr. Felipe Grings</strong></p>
-      <p align="center"><strong> B.Sc. Computer Engineering </strong></p>
-      <p align="center">M. Sc. Student</p></td>
+  
+      <td width="24%" height="253"><p align="center"><img src="Ariel.png"  height="100"></p>
+      <p align="center"><strong>Mr.Ariel Dalla Costa</strong></p>
+      <p align="center"><strong>B.Sc. M. Sc. Computer Science</strong></p>      <p align="center">Ph.D. Student</p></td>
+ 
+  
     <td width="24%" height="253"><p align="center"><<img src="Gustavo Zanatta Bruno.png" height="100"></p>
       <p align="center"><strong>M. Sc. Gustavo Zanatta Bruno </strong></p>
+      <p align="center"><strong>B.Sc. Computer Engineering </strong></p>
       <p align="center"><strong>Ph.D Student </strong></p>
       <p align="center">Visiting Virginia Tech (2023)</p></td>
   </tr>
+      <td width="26%" height="253"><p align="center"><img src="Henrique Cesar Carvalho de Resende.png" width="120" height="154"></p>
+      <p align="center"><strong>Mr. Henrique Cesar Carvalho de Resende</strong></p>
+      <p align="center"><strong> PhD Student at University of Antwerp, Belgium</strong></p>
+      <p align="center">PhD Student</p></td>
   <tr>
      <td width="26%" height="253"><p align="center"><img src="Felipe Arnhold.png"  height="100"></p>
       <p align="center"><strong>Mr. Felipe Arnhold</strong></p>
       <p align="center"><strong>B.Sc. Computer Engineering </strong></p>
       <p align="center">M.Sc. Student</p></td>
-    <td width="26%" height="253"><p align="center"><img src="Henrique Cesar Carvalho de Resende.png" width="120" height="154"></p>
-      <p align="center"><strong>Mr. Henrique Cesar Carvalho de Resende</strong></p>
-      <p align="center"><strong> PhD Student at University of Antwerp, Belgium</strong></p>
-      <p align="center">PhD Student</p></td>
-    <td width="24%" height="253"><p align="center"><img src="Ariel.png"  height="100"></p>
-      <p align="center"><strong>Mr.Ariel</strong></p>
-      <p align="center"><strong> MS Student</strong></p>      <p align="center">Student</p></td>
+  
+
+  
+ <td width="24%" height="253"><p align="center"><img src="Felipe Grings.png" height="100"></p>
+      <p align="center"><strong>Mr. Felipe Grings</strong></p>
+      <p align="center"><strong> B.Sc. Computer Engineering </strong></p>
+      <p align="center">M. Sc. Student</p></td>
+  
     <td width="24%" height="253"><p align="center"><img src="Thiago Becker.png" width="120" height="154"></p>
       <p align="center"><strong>Mr.Thiago Becker</strong></p>
       <p align="center"><strong> B.Sc. Computer Science </strong></p>      <p align="center">Student</p></td>
-    <td width="26%" height="253"><p align="center"><img src="Wagner Dias.png" width="120" height="154"></p>
+  
+    <td width="26%" height="253"><p align="center"><img src="Wagner da Silva Dias.png" width="120" height="154"></p>
       <p align="center"><strong>Mr. Wagner Dias</strong></p>
       <p align="center"><strong> B.Sc. Computer Engineering</strong></p>
       <p align="center">M.Sc.Student</p></td>
@@ -91,23 +101,21 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
     
   </tbody>
         </tr>
- <table>
-  <tbody>
-      <tr>
-          
+ 
+           
           
            ## Visiting Faculty
-      
+  <table>    
   <tbody>
       <tr>
       <td width="24%" height="253"><p align="center"><img src="Sivasankari Salem Anbazhagan.png" width="120" height="154"></p>
       <p align="center"><strong> Dr. Sivasankari Salem Anbazhagan</strong></p>
-      <p align="center"><strong>Ph.D. (Saveetha Institute of Medical And Technical Sciences, Saveetha University, Chennai, India) </strong></p>
+      <p align="center"><strong>Ph.D. in Electronics and Communication Engineering (Saveetha Institute of Medical And Technical Sciences, Saveetha University, Chennai, India, 2019) </strong></p>
       <p align="center">Associate Professor at Postdoctoral position</p></td>
     <td width="26%" height="253"><p align="center"><img src="João Carlos Silveira.png" width="120" height="154"></p>
-      <p align="center"><strong>M.Sc. João Carlos Silveira</strong></p>
-      <p align="center"><strong> M.Sc Physics</strong></p>      <p align="center"> Visiting Consultant </p></td>
-    
+      <p align="center"><strong>M.Sc. João Carlos C. da Silveira</strong></p>
+      <p align="center"><strong> M.Sc Physics and Mathematics (People’s Friendship University, Moscow, USSR, 1979)</strong></p>      <p align="center"> Visiting Consultant </p></td>
+   
  
   </tr>
  </tr>
@@ -323,7 +331,7 @@ About UNISINOS:  http://www.unisinos.br/global/en/
 UNISINOS Telecom Research Group has received funding from the Brazilian Ministry of Science, Technology and Innovation (MCTI) through FAPESP and CNPq.
 </p>
 <p align="center">
-    <img src="mcti.png" height="100"/>     <img src="fapesp.png" height="100"/>  <img src="Logo_CNPq.png" height="100"/>
+    <img src="mcti.png" height="100"/>     <img src="fapesp.png" height="100"/>  <img src="Logo_CNPq.png" height="70"/>
 </p>
 
 
