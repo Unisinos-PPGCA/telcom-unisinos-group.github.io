@@ -58,7 +58,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
       <p align="center"><strong> Ph. D  Chairperson /  Professor </strong></p>
       <p align="center">  .  </p></td>
 <tr>  
-      <td width="24%" height="253"><p align="center"><img src="Ariel.png"  height="100"></p>
+      <td width="24%" height="253"><p align="center"><img src="Ariel-Dalla-Costa.png"  height="100"></p>
       <p align="center"><strong>M.Sc. Ariel Dalla Costa</strong></p>
       <p align="center"><strong>B.Sc. M. Sc. Computer Science</strong></p>      <p align="center">Ph.D. Student</p></td>
  
