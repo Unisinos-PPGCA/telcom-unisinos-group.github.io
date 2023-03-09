@@ -51,12 +51,12 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 <tr>
     <td height="253"><p align="center"><img src="Cristiano Bonato Both.png"  height="100"></p>
       <p align="center"><strong>Prof. Dr. Cristiano Bonato Both</strong></p>
-      <p align="center"><strong> Ph.D - Chairperson /  Professor </strong></p>      <p align="center"></p></td>
+      <p align="center"><strong> Ph.D - Chairperson /  Professor </strong></p>      <p align="center">   .  </p></td>
 </tr>
     <td width="26%" height="253"><p align="center"><img src="Lucio Rene Prade.png"  height="100"></p>
       <p align="center"><strong>Prof. Dr. Lucio Rene Prade</strong></p>
-      <p align="center"><strong> Ph. D </strong></p>
-      <p align="center">Professor</p></td>
+      <p align="center"><strong> Ph. D  Chairperson /  Professor </strong></p>
+      <p align="center">x  .  </p></td>
 <tr>  
       <td width="24%" height="253"><p align="center"><img src="Ariel.png"  height="100"></p>
       <p align="center"><strong>Mr.Ariel Dalla Costa</strong></p>
