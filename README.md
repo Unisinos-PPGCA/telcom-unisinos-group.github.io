@@ -56,16 +56,16 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
     <td width="26%" height="253"><p align="center"><img src="Lucio Rene Prade.png"  height="100"></p>
       <p align="center"><strong>Prof. Dr. Lucio Rene Prade</strong></p>
       <p align="center"><strong> Ph. D  Chairperson /  Professor </strong></p>
-      <p align="center">x  .  </p></td>
+      <p align="center">  .  </p></td>
 <tr>  
       <td width="24%" height="253"><p align="center"><img src="Ariel.png"  height="100"></p>
-      <p align="center"><strong>Mr.Ariel Dalla Costa</strong></p>
+      <p align="center"><strong>M.Sc. Ariel Dalla Costa</strong></p>
       <p align="center"><strong>B.Sc. M. Sc. Computer Science</strong></p>      <p align="center">Ph.D. Student</p></td>
  
  <tr> 
     <td width="24%" height="253"><p align="center"><<img src="Gustavo Zanatta Bruno.png" height="100"></p>
       <p align="center"><strong>M. Sc. Gustavo Zanatta Bruno </strong></p>
-      <p align="center"><strong>B.Sc. Computer Engineering </strong></p>
+      <p align="center"><strong>B.Sc. M. Sc. Computer Engineering </strong></p>
       <p align="center"><strong>Ph.D Student </strong></p>
       <p align="center">Visiting Virginia Tech (2023)</p></td>
   </tr>
