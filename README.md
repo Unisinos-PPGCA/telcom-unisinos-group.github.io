@@ -71,9 +71,10 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
   </tr>
   <tr>
       <td width="26%" height="253"><p align="center"><img src="Henrique Cesar Carvalho de Resende.png" width="120" height="154"></p>
-      <p align="center"><strong>Mr. Henrique Cesar Carvalho de Resende</strong></p>
-      <p align="center"><strong> PhD Student at University of Antwerp, Belgium</strong></p>
-      <p align="center"><strong>PhD Student</strong></p></td>
+      <p align="center"><strong>B.Sc. Henrique Cesar Carvalho de Resende</strong></p>
+      <p align="center"><strong>B. Sc. Computer Sciences </strong></p></td>
+      <p align="center"><strong> Ph.D. Student at University of Antwerp, Belgium</strong></p>
+      
   <tr>
      <td width="26%" height="253"><p align="center"><img src="Felipe Arnhold.png"  height="100"></p>
       <p align="center"><strong>Mr. Felipe Arnhold</strong></p>
