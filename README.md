@@ -77,30 +77,30 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
       
   <tr>
      <td width="26%" height="253"><p align="center"><img src="Felipe Arnhold.png"  height="100"></p>
-      <p align="center"><strong>Mr. Felipe Arnhold</strong></p>
+      <p align="center"><strong>B.Sc. Felipe Arnhold</strong></p>
       <p align="center"><strong>B.Sc. Computer Engineering </strong></p>
       <p align="center">M.Sc. Student</p></td>
   
 <tr>  
  <td width="24%" height="253"><p align="center"><img src="Felipe Grings.png" height="100"></p>
-      <p align="center"><strong>Mr. Felipe Grings</strong></p>
+      <p align="center"><strong>B.Sc. Felipe Grings</strong></p>
       <p align="center"><strong> B.Sc. Computer Engineering </strong></p>
       <p align="center">M. Sc. Student</p></td>
   
   <tr>
     <td width="24%" height="253"><p align="center"><img src="Thiago Becker.png" width="120" height="154"></p>
-      <p align="center"><strong>Mr.Thiago Becker</strong></p>
+      <p align="center"><strong>B.Sc. Thiago Becker</strong></p>
       <p align="center"><strong> B.Sc. Computer Science </strong></p>      <p align="center">M. Sc. Student</p></td>
   </tr>
     <tr>
     <td width="26%" height="253"><p align="center"><img src="Wagner da Silva Dias.png" width="120" height="154"></p>
-      <p align="center"><strong>Mr. Wagner Dias</strong></p>
+      <p align="center"><strong>B.Sc. Wagner Dias</strong></p>
       <p align="center"><strong> B.Sc. Computer Engineering</strong></p>
       <p align="center">M.Sc. Student</p></td>
    </tr>
   <tr>    
        <td width="26%" height="253"><p align="center"><img src="Gabriela da Silva Machado.png" width="120" height="154"></p>
-      <p align="center"><strong>Ms. Gabriela da Silva Machado</strong></p>
+      <p align="center"><strong>B.Sc. Gabriela da Silva Machado</strong></p>
       <p align="center"><strong> B.Sc. Systems Dev </strong></p>
       <p align="center">M.Sc. Student</p></td>
     
