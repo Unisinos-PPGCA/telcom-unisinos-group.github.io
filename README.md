@@ -45,8 +45,8 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
    <tbody>
   <p align="center"> <h1> Group Faculty of Department and Graduate Students</h1></legend>
 
-            <p><h2>Permanent Faculty and Graduate Students</h2>
-         </p>
+        <strong>Permanent Faculty and Graduate Students</strong>
+         
             
 
                
@@ -110,7 +110,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
  
            
           
-  ## <h2>Visiting Faculty</h2>
+  ## <strong>Visiting Faculty</strong>
   
   <table>    
   <tbody>
@@ -128,10 +128,10 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
  
        </tbody>
  </table>
-
+<p>
 ## Publications
 
-
+</p>
 
 <details><summary> B. M. Xavier, R. S. Guimarães, G. Comarela and M. Martinello, <i>" MAP4: A Pragmatic Framework for In-Network Machine Learning Traffic Classification "</i> in IEEE Transactions on Network and Service Management, 2022. </summary>
     <strong>Abstract:</strong> 
@@ -277,8 +277,8 @@ Cancel changes
 </details>
 <br/>
 
-
-## Development 
+<p>
+## Development </p>
 <p>
 Source routing (SR) is a prominent alternative to table-based routing for reducing the number of network states. Actually the traditional SR approaches, based on Port Switching, still maintain a state in the packet by using a header rewrite operation. The residue number system (RNS) is a promising way to achieve fully stateless SR, in which forwarding decisions at core nodes rely on a simple modulo operation over a route label. Nevertheless, such operation over integer arithmetic is not natively supported by commodity network hardware. Thus, PolKA proposes a novel RNS-based SR scheme that explores binary polynomial arithmetic using Galois field (GF) of order 2.
 </p>
