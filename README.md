@@ -1,6 +1,6 @@
 # telcom-unisinos-project.github.io
 <p align="center">
-<title> <strong> UNISINOS Telecom Research Group </strong> </title>
+<h1> <strong> UNISINOS Telecom Research Group </strong> </h1>
 <p align="center">
 
 
