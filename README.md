@@ -45,8 +45,8 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
    <tbody>
   <p align="center"> <h1> Group Faculty of Department and Graduate Students</h1></legend>
 
-            <h2>Permanent Faculty and Graduate Students</h2>
-         
+            <p><h2>Permanent Faculty and Graduate Students</h2>
+         </p>
             
 
                
