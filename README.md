@@ -1,5 +1,5 @@
 # telcom-unisinos-project.github.io
-
+<title> <strong> UNISINOS Telecom Research Group </strong> </title>
 <p align="center">
 
 
@@ -42,7 +42,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
 ## Members
 
    <tbody>
-        > Group Faculty of Department and Graduate Students</legend>
+        <p align="center"> Group Faculty of Department and Graduate Students</legend>
 
             Permanent Faculty and Graduate Students
             
@@ -108,7 +108,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
  
            
           
-  ## Visiting Faculty
+  ## <strong>Visiting Faculty</strong>
   
   <table>    
   <tbody>
