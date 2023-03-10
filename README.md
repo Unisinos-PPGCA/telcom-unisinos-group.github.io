@@ -1,4 +1,5 @@
 # telcom-unisinos-project.github.io
+<p align="center">
 <title> <strong> UNISINOS Telecom Research Group </strong> </title>
 <p align="center">
 
