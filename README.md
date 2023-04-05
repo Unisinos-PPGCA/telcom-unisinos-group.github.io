@@ -44,7 +44,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
   <p> </p>
   <p align="center"><img src="Foto_churras_Telecom_Group with families.jpg"  height="500"></p>
   <p> </p>
-  Today, April, 5th, 2023 we welcome to the group a new member, M.Sc. Alexis Leal,now a Ph.D. Stutend at UNISINOS!
+  Today, April, 5th, 2023 we welcome to the group a new member, M.Sc. Alexis Leal, now a Ph.D. Student at UNISINOS!
 <p align="center"><img src="Alexis Leal.jpg"  height="300"></p>
   <p> </p>
   
