@@ -46,7 +46,8 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
   <p> </p>
   Today, April, 5th, 2023 we welcome to the group a new member, M.Sc. Alexis Leal, now a Ph.D. Student at UNISINOS!
 <p align="center"><img src="Alexis Leal.jpg"  height="300"></p>
-  <p> </p>
+  <p>
+</p>
   
  It is intended to exploit virtual network splits that optimise resource allocation across the wireless, optical, packet, and compute/storage domains. Key enablers for PORVIR-5G are (i) Slicing over packet, wireless, and optical resources, controlled by (ii) deep programmability interfaces, where the devices are configured by network functions to provide the required performance for the future applications on the Internet. This programmability allows a more refined (iii) end-to-end and multilayer orchestration, considering the quality of experience of the users for each type of applications over the network. This project will validate and demonstrate the proposed programmability and virtualization capabilities in three demonstrations, each one of them enabling the key performance demands of 5G networks: an Internet of Things demonstrator focusing on massive machine-type communication; a smart city demonstration for reliable and ultra-low latency flows; and a high bandwidth video demonstrator showcasing the next-generation mobile broadband. 
 </p>
@@ -87,7 +88,11 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
       <p align="center"><strong>B.Sc. Henrique Cesar Carvalho de Resende</strong></p>
       <p align="center"><strong>B. Sc. Computer Sciences </strong></p></td>
       <p align="center"><strong> Ph.D. Student at University of Antwerp, Belgium</strong></p>
-      
+  <tr>
+      <td width="26%" height="253"><p align="center"><img src="Alexis Leal.png" width="120" height="154"></p>
+      <p align="center"><strong>M.Sc. Alexis Leal</strong></p>
+      <p align="center"><strong>M. Sc. Computer Sciences </strong></p></td>
+      <p align="center"><strong> Ph.D. Student at UNISINOS</strong></p>    
   <tr>
      <td width="26%" height="253"><p align="center"><img src="Felipe Arnhold.png"  height="100"></p>
       <p align="center"><strong>B.Sc. Felipe Arnhold</strong></p>
