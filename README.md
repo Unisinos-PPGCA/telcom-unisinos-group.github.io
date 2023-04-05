@@ -84,7 +84,7 @@ The expected massive growth of mobile Internet traffic in 5G mobile networks int
       <p align="center">Visiting Virginia Tech (2023)</p></td>
   </tr>
   <tr>
-      <td width="26%" height="253"><p align="center"><img src="Henrique Cesar Carvalho de Resende.png" width="120" height="154"></p>
+      <td width="26%" height="253"><p align="center"><img src="Henrique Cesar Carvalho de Resende.png" width="140" height="154"></p>
       <p align="center"><strong>B.Sc. Henrique Cesar Carvalho de Resende</strong></p>
       <p align="center"><strong>B. Sc. Computer Sciences </strong></p></td>
       <p align="center"><strong> Ph.D. Student at University of Antwerp, Belgium</strong></p>
